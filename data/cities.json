@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "e6e9",
+      "cityName": "Abuja",
+      "country": "Nigeria",
+      "date": "2024-04-10T16:26:01.744Z",
+      "emoji": "🇳🇬",
+      "notes": "God Dey\n",
+      "position": {
+        "lat": "9.07906873463845",
+        "lng": "7.502900061188968"
+      }
+    },
+    {
+      "id": "3f31",
+      "cityName": "Castejon de Henares",
+      "country": "Spain",
+      "date": "2024-04-11T15:58:48.897Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.928994957203216",
+        "lng": "-2.7685546875000004"
+      }
+    },
+    {
+      "id": "7b62",
+      "cityName": "Sarayonu",
+      "country": "Turkiye",
+      "date": "2024-04-11T18:20:52.321Z",
+      "emoji": "🇹🇷",
+      "notes": "",
+      "position": {
+        "lat": "38.35174509188183",
+        "lng": "32.51953125000001"
+      }
+    }
+  ]
+}
