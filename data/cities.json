@@ -59,6 +59,30 @@
         "lat": "38.35174509188183",
         "lng": "32.51953125000001"
       }
+    },
+    {
+      "id": "8566",
+      "cityName": "El Hoyo de Pinares",
+      "country": "Spain",
+      "date": "2024-04-20T13:02:06.481Z",
+      "emoji": "🇪🇸",
+      "notes": "s",
+      "position": {
+        "lat": "40.48680561251497",
+        "lng": "-4.405517578125001"
+      }
+    },
+    {
+      "id": "2af1",
+      "cityName": "Dange-Shuni",
+      "country": "Nigeria",
+      "date": "2024-04-20T13:02:24.275Z",
+      "emoji": "🇳🇬",
+      "notes": "hkasd",
+      "position": {
+        "lat": "12.831202004216077",
+        "lng": "5.383300781250001"
+      }
     }
   ]
 }
